@@ -1,3 +1,3 @@
 # C-Fibonacci
 
-C implementation of the Fibonnaci algorithm
+Simplest C implementation of the Fibonnaci algorithm
